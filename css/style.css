@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto" sans-serif;
+    font-family: 'Roboto' sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -24,7 +24,7 @@ a {
   }
 .header-logo {
     color: #2E2F42;
-    font-family: "Raleway" sans-serif;
+    font-family: 'Raleway' sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -33,7 +33,7 @@ a {
 }
 .heder-logo-span {
     color:  #4d5ae5;
-    font-family: "Raleway" sans-serif;
+    font-family: 'Raleway' sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -80,7 +80,6 @@ a {
     cursor: pointer;
 }
 .section-button {
-    font-family: "Roboto" sans-serif;
     font-weight: 500;
     border-radius: 4px;
     background: #4D5AE5;
@@ -178,7 +177,7 @@ a {
 }
 .footer-logo-span {
     color: #f4f4fd;
-    font-family: "Raleway" sans-serif;
+    font-family: 'Raleway' sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -187,10 +186,10 @@ a {
 }
 .footer-logo {
     color: #4d5ae5;
-    font-family: "Raleway" sans-serif;
+    font-family: 'Raleway' sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase; 
 }
