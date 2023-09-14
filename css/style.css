@@ -39,12 +39,18 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
-.header-contacts {
+.header-menu-link:hover, .header-menu-link:focus {
+    color: #404bbf;
+}
+.header-contacts-link {
     color: #434455;
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.header-contacts-link:hover, .header-contacts-link:focus {
+    color: #404bbf;
 }
 
 .section {
@@ -56,15 +62,21 @@ a {
     text-align: center;
     font-size: 56px;
     font-weight: 700;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 .section-button {
     font-weight: 500;
     background: #4D5AE5;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
 }
-
+.section-button:hover, .section-button:focus {
+    background-color: #404BBF
+}
 .advantages-list-title {
     color: #2E2F42;
     font-size: 20px;
