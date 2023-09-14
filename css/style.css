@@ -42,9 +42,11 @@ a {
 .header-menu-link:hover, .header-menu-link:focus {
     color: #404bbf;
 }
+.header-adress {
+    font-style: normal;
+}
 .header-contacts-link {
     color: #434455;
-    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
