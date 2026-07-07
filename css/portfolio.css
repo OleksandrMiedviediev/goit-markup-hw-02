@@ -1,0 +1,16 @@
+.portfolio-title {
+  font-weight: var(--font-weight-bold);
+  font-size: var(--size-font-title2);
+  line-height: var(--line-height-title2);
+  letter-spacing: var(--letter-spacing-title2);
+}
+.portfolio-name {
+  font-weight: var(--font-weight-medium);
+  font-size: var(--size-font-title3);
+  line-height: var(--line-height-title3);
+  letter-spacing: var(--letter-spacing-title3);
+}
+.portfolio-text {
+  color: #434455;
+  line-height: var(--line-height-text);
+}

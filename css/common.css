@@ -1,0 +1,26 @@
+:root{
+    --color-font: #2E2F42;
+    --color-font-logo: #4D5AE5;
+    --size-font: 18px;
+    --font-family-raleway: 'Raleway', sans-serif;
+    --font-weight-bold: 700;
+    --font-weight-medium: 500;
+    --size-font-title2: 36px;
+    --size-font-title3: 20px;
+    --line-height-title2: 1.11;
+    --line-height-title3: 1.2;
+    --letter-spacing-title2: 0.02em;
+    --letter-spacing-title3: 0.02em;
+    --line-height-text: 1.5;
+}
+
+body{
+font-family: 'Roboto', sans-serif;
+color: var(--color-font);
+}
+a{
+    text-decoration: none;
+}
+ul,li{
+    list-style: none;
+}

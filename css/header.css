@@ -1,0 +1,21 @@
+.logo{
+    color: var(--color-font);
+    font-size: var(--size-font);
+    font-weight: var(--font-weight-bold);
+    font-family: var(--font-family-raleway);
+}
+.logo-web{
+    color: var(--color-font-logo);
+    font-size: var(--size-font);
+    font-weight: var(--font-weight-bold);
+    font-family: var(--font-family-raleway);
+}
+.link-nav{
+    color: var(--color-font);
+    font-weight: var(--font-weight-medium);
+}
+.link-address{
+    color: #434455;
+    font-weight: var(--font-weight-medium);
+    font-style: normal;
+}

@@ -1,0 +1,10 @@
+.features-title {
+  font-weight: var(--font-weight-medium);
+  font-size: var(--size-font-title3);
+  line-height: var(--line-height-title3);
+  letter-spacing: var(--letter-spacing-title3);
+}
+.features-text {
+  color: #434455;
+  line-height: var(--line-height-text);
+}
