@@ -1,19 +1,18 @@
 .footer{
-    background-color: var(--color-font);
+    background-color: #2E2F42;
 }
 .footer-logo{
     color: #F4F4FD;
-    font-size: var(--size-font);
-    font-weight: var(--font-weight-bold);
-    font-family: var(--font-family-raleway);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: raleway, sans-serif;
 }
 .footer-logo-web{
-    color: var(--color-font-logo);
-    font-size: var(--size-font);
-    font-weight: var(--font-weight-bold);
-    font-family: var(--font-family-raleway);
+    color: #4D5AE5;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: raleway, sans-serif;
 }
 .footer-text{
     color: #F4F4FD;
-    line-height: var(--line-height-text);
 }

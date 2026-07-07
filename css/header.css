@@ -1,21 +1,33 @@
 .logo{
-    color: var(--color-font);
-    font-size: var(--size-font);
-    font-weight: var(--font-weight-bold);
-    font-family: var(--font-family-raleway);
+    color: #2E2F42;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
 }
 .logo-web{
-    color: var(--color-font-logo);
-    font-size: var(--size-font);
-    font-weight: var(--font-weight-bold);
-    font-family: var(--font-family-raleway);
+    color: #4D5AE5;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
 }
 .link-nav{
-    color: var(--color-font);
-    font-weight: var(--font-weight-medium);
+    color: #2E2F42;
+    font-weight: 500;
+}
+.link-nav:hover, .link-nav:focus{
+    color: #404BBF;
+}
+.link-nav:active{
+    color: #404BBF;
 }
 .link-address{
     color: #434455;
-    font-weight: var(--font-weight-medium);
+    font-weight: 500;
     font-style: normal;
+}
+.link-address:hover, .link-address:focus{
+    color: #404BBF;
+}
+.link-address:active{
+    color: #404BBF;
 }
