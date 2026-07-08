@@ -5,6 +5,7 @@
     font-family: 'Raleway', sans-serif;
     line-height: 1.33;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .logo-web{
     color: #4D5AE5;
@@ -13,6 +14,7 @@
     font-family: 'Raleway', sans-serif;
     line-height: 1.33;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .link-nav{
     color: #2E2F42;
